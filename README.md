@@ -13,7 +13,7 @@ This game is a fun and exciting way to learn a little bit about the history of t
 * The game will indicate whether your answer was correct or incorrect and will automatically tally your score
 * Once you have answered all of the questions, the game will indicate whether you won or lost
 * Start a new game by clicking the 'New Game' button at the top of the board
-####  HAVE FUN!
+#####  HAVE FUN!
 
 ## Technologies Used:
 * HTML5
